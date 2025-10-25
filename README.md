@@ -1,31 +1,26 @@
-# 🚀 148-Day .NET Core, DSA & Azure Cloud-Native Challenge
+# 148-Day .NET Core, DSA & Azure Cloud-Native Challenge
 
 Welcome to the **148-Day Developer Challenge** — a structured, hands-on journey to master backend and cloud-native development.
 
-## 🗓️ Plan Overview
+## Plan Overview
 
 - **Duration:** 148 Days  
 - **Daily Commitment:** 3 Hours  
 - **Focus Areas:**
-  - ✅ .NET Core Development
-  - ✅ Data Structures & Algorithms (DSA)
-  - ✅ Azure Cloud-Native Engineering
+  - .NET Core Development
+  - Data Structures & Algorithms (DSA)
+  - Azure Cloud-Native Engineering
 
 Each day includes practical coding tasks, real-world scenarios, and scalable solution design to help you build enterprise-grade skills.
 
 ---
-
-## 📁 Repository Structure
-
-
-
 
 - Tasks are grouped by day and topic.
 - Includes code samples, notes, and deployment guides.
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Build robust .NET Core applications
 - Strengthen algorithmic thinking for interviews
@@ -33,7 +28,7 @@ Each day includes practical coding tasks, real-world scenarios, and scalable sol
 
 ---
 
-## 🧠 Who This Is For
+## Who This Is For
 
 - Backend developers leveling up in cloud and architecture
 - Engineers preparing for interviews or certifications
@@ -41,7 +36,7 @@ Each day includes practical coding tasks, real-world scenarios, and scalable sol
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 1. Clone the repo  
 2. Follow the daily folders in order  
@@ -50,15 +45,15 @@ Each day includes practical coding tasks, real-world scenarios, and scalable sol
 
 ---
 
-## 🙌 Contributions
+## Contributions
 
 Pull requests are welcome! Feel free to suggest improvements, add new tasks, or share your solutions.
 
 ---
 
-## 📬 Contact
+## Contact
 
-For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or open an issue.
+For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/hishobkar) or open an issue.
 
 ---
 
