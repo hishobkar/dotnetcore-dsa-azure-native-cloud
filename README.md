@@ -1,10 +1,10 @@
-# 148-Day .NET Core, DSA & Azure Cloud-Native Challenge
+# 425-Day .NET Core, DSA & Azure Cloud-Native Challenge
 
-Welcome to the **148-Day Developer Challenge** — a structured, hands-on journey to master backend and cloud-native development.
+Welcome to the **425-Day Developer Challenge** — a structured, hands-on journey to master backend and cloud-native development.
 
 ## Plan Overview
 
-- **Duration:** 148 Days  
+- **Duration:** 425 Days  
 - **Daily Commitment:** 3 Hours  
 - **Focus Areas:**
   - .NET Core Development
